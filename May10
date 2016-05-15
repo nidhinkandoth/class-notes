@@ -1,0 +1,12 @@
+First Day. Learnt the basic commands used in the Linux terminal
+ls - list files and folders in the current folder
+cp - copy files
+rm - remove files
+mv - move files ( arj.txt as.txt)
+mkdir - create directory
+cd<space> folder name - opens folder
+cd alone - comes out
+file <space> something
+folder dev : starting with c character special file
+		starting with b block special
+

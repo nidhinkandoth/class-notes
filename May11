@@ -1,0 +1,27 @@
+11/6/2016 Wednesday
+
+Root : super user
+command 'su'
+
+folder lib
+------------
+
+.so : files containing machine code
+if we remove this file the entire system wont run.
+pro - Contain info regarding hardwares ,cpu peripherals
+interrupts - hardwares
+cd 1303 running process id
+
+sbin
+-----
+
+Machine code of different commands
+
+tmp
+----
+holds temporary files
+
+usr/src : contains headers
+
+pwd : prints working directory
+

@@ -1,0 +1,40 @@
+date : Shows date and time
+date > abc
+This shows output redirection. The command output has been stored to abc
+
+date >> abc
+
+stores to abc without overwriting
+
+grep : pattern matching
+
+wc -l : counts no of lines
+wc -w : counts no of words
+wc alone gives all the counts
+
+
+grep command
+------------
+
+grep 'head' /usr/share/dict/words
+
+regular expression pattern
+outputs all the words containing head
+
+grep '^head' : outputs all the words starting with head
+grep 'head$' : Outputs all words ends with head
+grep '^head$' : prints head
+grep '^h..d$' : prints all starts with h and ends with d
+
+Pipe
+-----
+cmd1 | cmd2
+
+cmd1 - producer
+cmd2 - uses the output of cmd1
+
+touch - command used to create empty files
+
+meta character expansion (a*)
+echo a* prints all files starts with a
+echo 'a*' prints a*
